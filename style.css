@@ -81,7 +81,7 @@ nav {
    height: 421px;
 }
 
-.title {
+.hero-title {
    font-size: 50px;
    color: #091133;
    font-weight: 500;
@@ -91,7 +91,7 @@ nav {
    font-style: normal;
 }
 
-.description {
+.hero-description {
    margin-bottom: 20px;
    font-size: 18px;
    color: #505F98;
@@ -148,7 +148,7 @@ nav {
    height: 524.31px;
 }
 
-.text-block .title {
+.title {
    font-size: 36px;
    font-style: normal;
    font-weight: 500;
@@ -157,11 +157,12 @@ nav {
    color: #091133;
 }
 
-.text-block .description {
+.description {
    font-size: 16px;
    font-style: normal;
    font-weight: 400;
    line-height: 26px;
+   color: #6F7CB2;
 }
 
 .description p {
@@ -201,4 +202,38 @@ nav {
    font-weight: 400;
    line-height: 18px;
    color: #5D6970;
+}
+
+.another-powerful {
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   gap: 155px;
+   width: 1140px;
+   height: 569px;
+}
+
+.text-block {
+   width: 445px;
+}
+
+.btn-powerful {
+   margin-bottom: 40px;
+   width: 150px;
+   height: 32px;
+   background: #111B47;
+   border-radius: 2px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+.btn-powerful a {
+   text-decoration: none;
+   font-size: 14px;
+   font-style: normal;
+   font-weight: 500;
+   line-height: 24px;
+   color: #FFFFFF;
+  
 }
