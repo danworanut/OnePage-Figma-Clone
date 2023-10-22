@@ -7,10 +7,7 @@
    font-family: 'Roboto', sans-serif;
 }
 
-/* 
-:root {
 
-} */
 
 .container {
    max-width: 1110px;
@@ -131,4 +128,77 @@ nav {
    background: transparent;
    border: 2.5px solid #111B47;
    color: #111B47;
+}
+
+.powerful {
+   width: 1440px;
+   height: 742px;
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+}
+
+.block {
+   width: 540px;
+   height: 204px;
+}
+
+.img {
+   width: 540px;
+   height: 524.31px;
+}
+
+.text-block .title {
+   font-size: 36px;
+   font-style: normal;
+   font-weight: 500;
+   line-height: 48px;
+   margin-bottom: 16px;
+   color: #091133;
+}
+
+.text-block .description {
+   font-size: 16px;
+   font-style: normal;
+   font-weight: 400;
+   line-height: 26px;
+}
+
+.description p {
+   margin-bottom: 20px;
+}
+
+
+.card {
+   margin-top: 80px;
+   display: flex;
+   justify-content: space-between;
+   gap: 30px;
+}
+
+.card-info {
+   width: 255px;
+   height: 54px;
+}
+
+.icon {
+   width: 36px;
+   height: 36px;
+   margin-bottom: 14px;
+}
+
+.title-card {
+   font-size: 16px;
+   font-style: normal;
+   font-weight: 500;
+   line-height: 26px;
+   margin-bottom: 4px;
+}
+
+.body-card {
+   font-size: 12px;
+   font-style: normal;
+   font-weight: 400;
+   line-height: 18px;
+   color: #5D6970;
 }
