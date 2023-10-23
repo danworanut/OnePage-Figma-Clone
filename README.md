@@ -17,6 +17,6 @@ HTML, CSS
 
 Here are some related projects
 
-[Awesome README](https://github.com/matiassingers/awesome-readme)
+[Awesome Link](https://fontawesome.com/)
 
-[Prototype Design in Figma  README](https://www.figma.com/community/file/849342658995967505 )
+[Prototype Design in Figma  Link](https://www.figma.com/community/file/849342658995967505 )
