@@ -235,5 +235,74 @@ nav {
    font-weight: 500;
    line-height: 24px;
    color: #FFFFFF;
-  
+
+}
+
+.pricing {
+   background: url('img/Rectangle.svg') no-repeat;
+   background-position: center top;
+   height: 804.61px;
+   text-align: center;
+}
+
+.pricing-box {
+   padding-top: 237.61px;
+}
+
+.price-box {
+   margin-top: 35.82px;
+}
+
+.price {
+   font-size: 50px;
+   font-style: normal;
+   font-weight: 500;
+   line-height: 66px;
+   letter-spacing: 1px;
+   color: #222F65;
+}
+
+.price-desc {
+   font-size: 16px;
+   font-style: normal;
+   font-weight: 400;
+   line-height: 26px;
+   color: #37447E;
+   margin-bottom: 60px;
+}
+
+.text {
+   font-size: 14px;
+   font-style: normal;
+   font-weight: 400;
+   line-height: 24px;
+   color: #5D6970;
+}
+
+.flex {
+   display: flex;
+   justify-content: center;
+   flex-direction: column;
+   align-items: center;
+   gap: 9.03px;
+} 
+
+.btn-price {
+   width: 189px;
+   height: 32px;
+   background: #111B47;
+   border-radius: 2px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+.btn-price a {
+   text-decoration: none;
+   font-size: 14px;
+   font-style: normal;
+   font-weight: 500;
+   line-height: 24px;
+   color: #FFFFFF;
+
 }
